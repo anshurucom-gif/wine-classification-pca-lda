@@ -1,4 +1,8 @@
-https://colab.research.google.com/drive/144m0kIFY9W2qMhlN2nyS_QOvsYJsWc7V#scrollTo=Z-Yz3mbbF23o
+## Google Colab Notebook
+
+You can view and run the complete project in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/144m0kIFY9W2qMhlN2nyS_QOvsYJsWc7V#scrollTo=Z-Yz3mbbF23o)
 
 # Wine Classification Using PCA, LDA and Logistic Regression   
 
